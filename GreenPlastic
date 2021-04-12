@@ -4,7 +4,7 @@
  
                            give the plastic materials to our respective co-ordinators for free and in return they will return a sapling that the user wish.
                                                                      
-                                                                     In this project, we have 3modules :
+                                                                     In this project, we have 3 modules :
                                                                       
                                                                       1. Admin
                                                                       
@@ -17,3 +17,4 @@
              * User needs to upload the details of their respective location and address to get collected by the co-ordinators.
              
              * Co-ordinator collects the plastic materials with respect to the request to the user and delivers a sapling in response with it.
+             
