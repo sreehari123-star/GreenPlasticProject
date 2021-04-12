@@ -1,0 +1,19 @@
+                                                                               GreenPlasticProject
+                             
+              Green Plastic is a web application used to create a service to customers for collecting waste from their respective houses. Here the customers are free to
+ 
+                           give the plastic materials to our respective co-ordinators for free and in return they will return a sapling that the user wish.
+                                                                     
+                                                                     In this project, we have 3modules :
+                                                                      
+                                                                      1. Admin
+                                                                      
+                                                                      2. User
+                                                                      
+                                                                      3. Co-ordinator
+                                                                      
+             * Admin is the administrator who verifies the feedback of the users and also can control the co-ordinators in respect to their duties.
+             
+             * User needs to upload the details of their respective location and address to get collected by the co-ordinators.
+             
+             * Co-ordinator collects the plastic materials with respect to the request to the user and delivers a sapling in response with it.
