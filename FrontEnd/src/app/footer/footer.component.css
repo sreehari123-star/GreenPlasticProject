@@ -1,0 +1,29 @@
+.box{
+    /* border: 2px solid black; */
+    margin-top: 20em;
+} 
+
+.box1{
+    border: 2px solid white;
+    background-color: beige;
+    width: 25em;
+    margin-left: 2.5em;
+    float: left;
+    height: 18em;
+    padding: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box1 h4{
+    color: black;
+    text-align: center;
+}
+
+.box1 p{
+        text-align: center;
+        color: black;
+}
+
+img{
+    margin-left: 2em;
+}

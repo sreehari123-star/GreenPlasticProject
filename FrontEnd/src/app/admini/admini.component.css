@@ -1,0 +1,15 @@
+.card-header{
+    text-align: center;
+    background-color: gray;
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid lightgrey;
+}
+
+img{
+    height: 10em;
+}

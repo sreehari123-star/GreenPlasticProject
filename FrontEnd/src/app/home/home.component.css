@@ -1,0 +1,64 @@
+#para{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 5em;
+    line-height: 1.5em;
+}
+
+img{
+    height: 20em;
+    width: 30em;
+    margin-left: 18%;
+}
+
+h1{
+    margin-left: 2.5em;
+    text-align: justify;
+}
+
+#head{
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 7em;
+}
+
+h3{
+    text-align: right;
+    margin-right: 8.5em;
+}
+
+.right{
+    float: right;
+    margin-right: 12em;
+}
+
+#para2{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 5em;
+    line-height: 1.5em;
+}
+
+.image{
+    float: right;
+    margin-top: 12em;
+    margin-right: 8em;
+}
+
+#para3{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 5em;
+    line-height: 1.5em;
+}
+
+.image2{
+    float: right;
+    margin-right: 20em;  
+    width: 12.5em;
+    margin-bottom: 20em;
+}
+
+.left{
+    text-align: center;
+}

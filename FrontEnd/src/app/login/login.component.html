@@ -1,0 +1,23 @@
+<div class="main">
+  <div class="left">
+    <form style="border:1px solid #ccc" (ngSubmit)="loginUser()">
+      <div class="container">
+        <h1>Log In</h1>
+        <p> <i>Login to Explore More ...</i></p>
+        <hr>
+
+        <label for="uname1"><b>Username</b></label> <br>
+        <input type="text" placeholder="Enter Username" name="uname" [(ngModel)]="user.uname" required>
+        <br><br>
+        <label for="psw"><b>Password</b></label> <br>
+        <input type="password" placeholder="Enter Password" name="password" [(ngModel)]="user.password" required>
+    <br><br>
+        <p>Forgot Password ? <a href="#" style="color:dodgerblue">Click Here</a>.</p>
+    
+        <div class="clearfix">
+        <button type="submit" class="loginbtn">Log In</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

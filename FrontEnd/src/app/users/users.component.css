@@ -1,0 +1,52 @@
+#subject{
+    width: 100%;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+}
+
+.card-header{
+    text-align: center;
+    background-color: gray;
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.table input{
+    width: 100%;
+    background-color: lightgray;
+    height: 2em;
+    border: 1px solid lightgray;
+}
+
+.table select{
+    width: 100%;
+    background-color: lightgray;
+    height: 2em;
+    border: 1px solid lightgray;
+}
+
+.card-body{
+    border: 2px solid lightgray;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2em;
+}
+
+#submitbtn{
+    width: 15%;
+    background-color: green;
+    height: 3em;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid green;
+    margin-left: 40%;
+}
+
+img{
+    height: 10em;
+}
